@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 env:
-  REGISTRY: ghcr.io/HydarDaffa/webbaruuuh
+  REGISTRY: ghcr.io/hydardaffa/webbaruuuh
   GH_REGISTRY: ghcr.io
   IMAGE_NAME: nginx
   DOCKER_BUILDKIT: 1
