@@ -1,5 +1,5 @@
 # Gunakan image Nginx resmi
-FROM nginx:alpine
+FROM nginx
 
 # Hapus file default Nginx
 RUN rm -rf /usr/share/nginx/html/*

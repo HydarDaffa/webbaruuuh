@@ -2,7 +2,7 @@ name: webbaruuuhh
 version: 1.0.0
 description: My awesome application
 container:
-  image: nginx:alpine
+  image: nginx
   port: 80
 resources:
   cpu: 500m
